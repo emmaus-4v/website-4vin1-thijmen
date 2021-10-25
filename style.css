@@ -3,7 +3,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #EEEEEE;  
+    background-color: rgb(235, 181, 137);
     
     color: #303030;
     font: Verdana, Arial, Sans-Serif;
@@ -60,7 +60,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #dddddd;
+    background-color: blue;
     overflow: hidden;
 }
 
@@ -70,19 +70,19 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: white;
+    color:green;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    width: 100px;
+    width: 108px;
 }
 
 nav li a:hover {
-    background-color: #aaaaaa;
+    background-color: yellow;
 }
 
 nav li a.active {
-    background-color: skyblue;
+    background-color: red;
 }
 
 
