@@ -60,7 +60,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: blue;
+    background-color: rgb(38, 38, 253);
     overflow: hidden;
 }
 
@@ -70,7 +70,7 @@ nav ul li {
 
 nav li a {
     display: block;
-    color:green;
+    color: rgb(255, 41, 41);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -82,7 +82,7 @@ nav li a:hover {
 }
 
 nav li a.active {
-    background-color: red;
+    background-color: limegreen;
 }
 
 
