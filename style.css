@@ -3,7 +3,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: rgb(53, 53, 53);
+    background-color: rgb(17, 17, 17);
     
     color: #303030;
     font: Verdana, Arial, Sans-Serif;
@@ -23,7 +23,7 @@ article {
 
 
 header {
-    color: rgb(0, 0, 0);
+    color: rgba(216, 5, 5, 0.925);
     text-align: center;
 }
 
@@ -60,7 +60,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: rgb(38, 38, 253);
+    background-color: rgb(121, 121, 121);
     overflow: hidden;
 }
 
@@ -70,7 +70,7 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: rgb(255, 41, 41);
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -78,11 +78,11 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: yellow;
+    background-color: rgb(173, 173, 173);
 }
 
 nav li a.active {
-    background-color: limegreen;
+    background-color: rgb(238, 238, 238);
 }
 
 
