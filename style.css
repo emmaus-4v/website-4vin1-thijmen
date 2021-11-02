@@ -5,8 +5,8 @@ html, body {
     padding: 0;
     background-color: rgb(17, 17, 17);
     
-    color: #303030;
-    font: Verdana, Arial, Sans-Serif;
+    color: #e91313e0;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 
@@ -29,6 +29,10 @@ footer {
 
 
 /* specifieke stijlen */
+
+#hoofdtitel {
+    font-family:'Courier New', Courier, monospace;
+}
 
 img.zweefLinks {
     float: left;
