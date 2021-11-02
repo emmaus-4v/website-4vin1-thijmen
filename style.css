@@ -5,10 +5,8 @@ html, body {
     padding: 0;
     background-color: rgb(17, 17, 17);
     
-    color: #303030;
-    font: Verdana, Arial, Sans-Serif;
+    color: #e91313e0;
 }
-
 
 main {
     margin: 0 auto;
@@ -21,16 +19,22 @@ header {
     text-align: center;
 }
 
+article {
+    font-family: 'Times New Roman', Times, serif;
+}
 
 footer {
     text-align: center;
     padding-bottom: 10px;
 }
 
-
 /* specifieke stijlen */
 
-img.zweefLinks {
+#hoofdtitel {
+    font-family:'Courier New', Courier, monospace;
+}
+
+.floatleft {
     float: left;
     margin-right: 15px;
 }
