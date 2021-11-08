@@ -4,12 +4,7 @@ html, body {
     height: 100%;
     padding: 0;
     background-color: rgb(17, 17, 17);
-    
     color: #e91313e0;
-<<<<<<< HEAD
-=======
-    font-family: 'Times New Roman', Times, serif;
->>>>>>> e8afdf7916965bcfd61c82ec27defcfc8a290fdc
 }
 
 main {
@@ -38,22 +33,13 @@ footer {
     font-family:'Courier New', Courier, monospace;
 }
 
-img.zweefLinks {
-    float: left;
-    margin-right: 15px;
-}
-
 .smalltext {
     font-size: 0.7em;
 }
 
 a {
-    color: skyblue;
+    color: #e22b2be0;
     text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
 }
 
 
@@ -88,5 +74,21 @@ nav li a.active {
 }
 
 
+/* afbeeldingen */
+
+img.floatleft {
+    float: left;
+    margin-right: 15px;
+}
+
+#Speech {
+    width: 45%;
+}
 
 
+
+/* tekst */
+
+#stukjehometekst {
+    margin-top: 20px;
+}
