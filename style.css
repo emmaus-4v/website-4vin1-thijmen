@@ -24,17 +24,14 @@ article {
 
 footer {
     text-align: center;
-    padding-bottom: 10px;
+    margin-top: 10px;
 }
+
 
 /* specifieke stijlen */
 
 #hoofdtitel {
     font-family:'Courier New', Courier, monospace;
-}
-
-.smalltext {
-    font-size: 0.7em;
 }
 
 a {
@@ -74,21 +71,21 @@ nav li a.active {
 }
 
 
-/* afbeeldingen */
+/* inhoud */
 
-img.floatleft {
+#Speech {
+    width: 45%;
     float: left;
     margin-right: 15px;
 }
 
-#Speech {
-    width: 45%;
+#stukjehometekst {
+    margin-top: 20px;
+    float: left;
+    width: 340px;
 }
 
-
-
-/* tekst */
-
-#stukjehometekst {
+#homevideo {
+    float: right;
     margin-top: 20px;
 }
