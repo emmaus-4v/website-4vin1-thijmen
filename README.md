@@ -61,6 +61,19 @@ https://www.w3schools.com/howto/default.asp
 - informatie van Emmauscollege over website opdracht
 https://emmauscollege.github.io/informatica/website/
 
+
+## notities
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="hitler.html">Hitler</a></li>
+        <li><a href="oorlog.html">Oorlog</a></li>
+        <li><a href="omstandigheden.html">Omstandigheden</a></li>
+        <li><a href="bevrijding.html">Bevrijding</a></li>
+    </ul>
+</nav>
+voeg toe: class="active"
+
 ## Credits
 - Website template van het Emmauscollege Rotterdam https://github.com/emmauscollege/4HV-website-template
 - ...
