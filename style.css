@@ -23,6 +23,11 @@ article {
     font-family: 'Times New Roman', Times, serif;
 }
 
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 800px;
+}
 
 /* specifieke stijlen */
 
@@ -84,4 +89,16 @@ nav li a.active {
 #homevideo {
     float: right;
     margin-top: 10px;
+}
+
+footer.#bladzijde {
+    text-align: center;
+}
+
+footer.#volgendeblz {
+    text-align: right;
+}
+
+footer.#vorigeblz {
+    text-align: left;
 }
