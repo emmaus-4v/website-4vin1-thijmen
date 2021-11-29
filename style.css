@@ -91,14 +91,20 @@ nav li a.active {
     margin-top: 10px;
 }
 
-footer.#bladzijde {
+.bladzijde {
     text-align: center;
+    float: right;
+    width: 400px;
+
 }
 
-footer.#volgendeblz {
+.volgendeblz {
+    float: right;
     text-align: right;
+    width: 200px;
 }
 
-footer.#vorigeblz {
-    text-align: left;
+.vorigeblz {
+    float: left;
+    width: 200px;
 }
