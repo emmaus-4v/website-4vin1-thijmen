@@ -31,7 +31,7 @@ footer {
 
 /* specifieke stijlen */
 
-#hoofdtitel {
+.hoofdtitel {
     font-family:'Courier New', Courier, monospace;
 }
 
@@ -72,6 +72,11 @@ nav li a.active {
 
 
 /* inhoud */
+
+#Thijmegraaf {
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
 
 #Speech {
     width: 100%;
