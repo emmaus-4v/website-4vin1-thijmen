@@ -1,8 +1,6 @@
 /* Basislayout */
 
 html, body {
-    height: 100%;
-    padding: 0;
     background-color: rgb(17, 17, 17);
     color: #e91313e0;
 }
@@ -10,13 +8,16 @@ html, body {
 main {
     margin: 0 auto;
     width: 900px;
-    height: 1350px;
+    height: 1380px;
     position: relative;
 }
 
 header {
     color: rgba(216, 5, 5, 0.925);
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
 }
 
 article {
@@ -30,10 +31,6 @@ footer {
 }
 
 /* specifieke stijlen */
-
-.hoofdtitel {
-    font-family:'Courier New', Courier, monospace;
-}
 
 a {
     color: #e22b2be0;
@@ -72,11 +69,6 @@ nav li a.active {
 
 
 /* inhoud */
-
-#Thijmegraaf {
-    border-top: 1px solid white;
-    border-bottom: 1px solid white;
-}
 
 #Speech {
     width: 100%;
