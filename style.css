@@ -14,6 +14,7 @@ main {
 
 header {
     color: rgba(216, 5, 5, 0.925);
+    background-color: rgb(25, 25, 25);
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     border-top: 1px solid white;
@@ -86,6 +87,18 @@ nav li a.active {
     float: right;
     margin-top: 10px;
 }
+
+#hitlertitel {
+    width: 49%;
+}
+
+#portrethitler {
+    float: right;
+    width: 49%;
+}
+
+
+/* footer */
 
 .bladzijde {
     text-align: center;
