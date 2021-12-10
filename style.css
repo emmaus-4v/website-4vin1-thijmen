@@ -89,12 +89,13 @@ nav li a.active {
 }
 
 #hitlertitel {
-    width: 49%;
+    width: 50%;
 }
 
 #portrethitler {
     float: right;
     width: 49%;
+    position: absolute;
 }
 
 
