@@ -13,6 +13,8 @@ main {
 }
 
 header {
+    display: block;
+    overflow: auto;
     color: rgba(216, 5, 5, 0.925);
     background-color: rgb(25, 25, 25);
     text-align: center;
@@ -90,12 +92,12 @@ nav li a.active {
 
 #hitlertitel {
     width: 50%;
+    float: left;
 }
 
 #portrethitler {
     float: right;
-    width: 49%;
-    position: absolute;
+    width: 50%;
 }
 
 

@@ -63,6 +63,9 @@ https://emmauscollege.github.io/informatica/website/
 
 
 ## notities
+ <header id="portrethitler1">
+                <img id="portrethitler2" src="afbeeldingen/hitlerportret.jpg" alt="een portret van Hitler">
+            </header>
 
 ## Credits
 - Website template van het Emmauscollege Rotterdam https://github.com/emmauscollege/4HV-website-template
