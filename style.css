@@ -33,6 +33,7 @@ footer {
     width: 900px;
 }
 
+
 /* specifieke stijlen */
 
 a {
@@ -42,11 +43,13 @@ a {
 
 
 /* navigatiebalk */
+
 nav ul {
     list-style-type: none;
     background-color: rgb(121, 121, 121);
     padding: 0;
     overflow: hidden;
+    margin-bottom: 0;
 }
 
 nav ul li {
@@ -68,6 +71,10 @@ nav li a:hover {
 
 nav li a.active {
     background-color: rgb(238, 238, 238);
+}
+
+.kleinetekst {
+    font-size: 10px;
 }
 
 
@@ -98,6 +105,32 @@ nav li a.active {
 #portrethitler {
     float: right;
     width: 50%;
+    margin: 0;
+}
+
+#hitlernav {
+    float: left;
+    width: 50%;
+    margin-top: 4px;
+    margin-bottom: 0;
+}
+
+#bevrijdingstitel {
+    width: 50%;
+    float: right;
+}
+
+#bevrijdingsfoto {
+    float: left;
+    width: 50%;
+    margin: 0;
+}
+
+#bevrijdingsnav {
+    float: right;
+    width: 50%;
+    margin-top: 4px;
+    margin-bottom: 0;
 }
 
 
