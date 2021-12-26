@@ -133,6 +133,61 @@ nav li a.active {
     margin-bottom: 0;
 }
 
+#hitler1left {
+    float: left;
+    width: 60%;
+}
+
+#hitler1right {
+    float: right;
+    width: 38%;
+    height: 710px;
+    border-top: 1px solid white;
+    border-left: 1px solid white;
+    padding-left: 5px;
+}
+
+#hitler2right {
+    float: right;
+    width: 60%;
+}
+
+#hitler2left {
+    float: left;
+    width: 38%;
+    height: 1304px;
+    border-top: 1px solid white;
+    border-right: 1px solid white;
+    padding-right: 5px;
+}
+
+#hitlerschilderij {
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+}
+
+#hitler3oorlog5left {
+    float: left;
+    width: 32%;
+    margin-right: 8px;
+}
+
+#hitler3oorlog5middle {
+    float: left;
+    width: 32%;
+    border-left: solid 1px white;
+    border-right: solid 1px white;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#hitler3oorlog5right {
+    float: right;
+    width: 32%;
+
+}
+
 
 /* footer */
 

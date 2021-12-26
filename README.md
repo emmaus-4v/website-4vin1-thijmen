@@ -3,8 +3,11 @@ Starter template for creating website in gitpod or replit
 
 Deze website is gebaseerd op het template voor 4HV van het Emmauscollege Rotterdam
 
-## Mijn website: *onderwerp*
-Gemaakt door: *naam van leerling*
+## Mijn website: *Wereldoorlog 2*
+Gemaakt door: *Thijmen Kok*
+
+## Waarom er geen inhoud is
+Vooral slechte tijdsindeling in de eerste paar weken doordat ik deze website zwaar heb onderschat, maar ook omdat ik afgelopen week niet veel aan de website heb kunnen werken. Mijn moeder heeft recent werk gevonden en had daarom het grootste deel van de week de laptop in beslag, waardoor ik op vrijdag pas echt bezig kon zijn. Op zaterdag had ik al helemaal geen tijd vanwege Kerst en vandaag, zondag, de dag van de deadline, heb ik ook niet al te veel tijd. Ik heb als prioriteit gesteld om alle bladzijdes op te vullen met lay-out en lorem ipsum tekst, zodat de website in ieder geval werkend is, er redelijk mooi uit ziet en eigenlijk alleen nog inhoud nodig heeft. Ik hoop dat ik nog steeds een voldoende kan krijgen, ook al is er geen inhoud, op plaatjes en filmpjes na. 
 
 ## Mijn planning
 Werk de planning af van boven naar beneden<br>
@@ -23,10 +26,9 @@ Stap 2: Bestandsstructuur opzetten
 - [x] Je hebt een werkend menu waarmee je naar de verschillende pagina’s kunt gaan, de layout kun je later nog aanpassen en mooi maken. 
 
 Stap 3: Lay-out 
-- [ ] Je hebt de lay-out (welk onderdeel komt waar op het scherm) van je pagina’s gekozen. Het is handig om voor al je pagina’s dezelfde lay-out te gebruiken. 
-- [ ] HAVO: Voor de layout heb je het ontwerp van de voorbeeldwebsite uitgebreid en aangepast aan jouw onderwerp 
-- [ ] VWO: Voor de layout heb je je eigen ontwerp (wireframe) gemaakt en je hebt hiervoor zelf de basis html en CSS gemaakt.
-- [ ] Je hebt de onderdelen uit de layout in je html benoemd met tags, classes en/of ID’s. Je hebt met CSS ervoor gezorgd dat deze onderdelen op de juiste plaats op de pagina worden weergegeven.
+- [x] Je hebt de lay-out (welk onderdeel komt waar op het scherm) van je pagina’s gekozen. Het is handig om voor al je pagina’s dezelfde lay-out te gebruiken. 
+- [x] VWO: Voor de layout heb je je eigen ontwerp (wireframe) gemaakt en je hebt hiervoor zelf de basis html en CSS gemaakt.
+- [x] Je hebt de onderdelen uit de layout in je html benoemd met tags, classes en/of ID’s. Je hebt met CSS ervoor gezorgd dat deze onderdelen op de juiste plaats op de pagina worden weergegeven.
 
 Stap 4: Inhoud en plaatjes 
 - [ ] Je hebt in html de inhoud op je hoofdpagina en al je subpagina’s gezet. 
@@ -60,12 +62,6 @@ https://www.w3schools.com/cssref/default.asp
 https://www.w3schools.com/howto/default.asp
 - informatie van Emmauscollege over website opdracht
 https://emmauscollege.github.io/informatica/website/
-
-
-## notities
- <header id="portrethitler1">
-                <img id="portrethitler2" src="afbeeldingen/hitlerportret.jpg" alt="een portret van Hitler">
-            </header>
 
 ## Credits
 - Website template van het Emmauscollege Rotterdam https://github.com/emmauscollege/4HV-website-template
