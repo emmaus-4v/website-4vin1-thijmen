@@ -167,13 +167,13 @@ nav li a.active {
     margin-top: 10px;
 }
 
-#hitler3oorlog5left {
+#lijntjesleft {
     float: left;
     width: 32%;
     margin-right: 8px;
 }
 
-#hitler3oorlog5middle {
+#lijntjesmiddle {
     float: left;
     width: 32%;
     border-left: solid 1px white;
@@ -182,13 +182,13 @@ nav li a.active {
     padding-right: 5px;
 }
 
-#hitler3oorlog5right {
+#lijntjesright {
     float: right;
     width: 32%;
 
 }
 
-#oorlog1left {
+#oorlog1bevrijding1left {
     float: left;
     width: 38%;
     height: 703px;
@@ -197,7 +197,7 @@ nav li a.active {
     padding-right: 5px;
 }
 
-#oorlog1right {
+#oorlog1bevrijding1right {
     float: right;
     width: 60%;
 }
@@ -249,7 +249,7 @@ nav li a.active {
     margin-top: 0;
 }
 
-#omstandigheden2right {
+#omstandigheden2bevrijding2right {
     float: right;
     width: 38%;;
     border-bottom: 1px solid white;
@@ -258,7 +258,7 @@ nav li a.active {
     padding-bottom: 5px;
 }
 
-#omstandigheden2left {
+#omstandigheden2bevrijding2left {
     float: left;
     width: 60%;
 }
