@@ -147,12 +147,12 @@ nav li a.active {
     padding-left: 5px;
 }
 
-#hitler2right {
+.hitler2oorlog3right {
     float: right;
     width: 60%;
 }
 
-#hitler2left {
+#hitler2oorlog3left {
     float: left;
     width: 38%;
     height: 1304px;
@@ -188,6 +188,67 @@ nav li a.active {
 
 }
 
+#oorlog1left {
+    float: left;
+    width: 38%;
+    height: 703px;
+    border-top: 1px solid white;
+    border-right: 1px solid white;
+    padding-right: 5px;
+}
+
+#oorlog1right {
+    float: right;
+    width: 60%;
+}
+
+.oorlog2left {
+    float: left;
+    width: 60%;
+}
+
+#oorlog2right {
+    float: right;
+    width: 38%;
+    height: 1304px;
+    border-top: 1px solid white;
+    border-left: 1px solid white;
+    padding-left: 5px;
+}
+
+#propaganda1 {
+    float: right;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#propaganda2 {
+    float: left;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#oorlog4left {
+    float: left;
+    width: 38%;;
+    border-bottom: 1px solid white;
+    border-right: 1px solid white;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+#oorlog4right {
+    float: right;
+    width: 60%;
+}
+
+#oorlog4bottom {
+    float: left;
+    margin-top: 0;
+}
+
 
 /* footer */
 
@@ -195,7 +256,6 @@ nav li a.active {
     text-align: center;
     float: right;
     width: 500px;
-
 }
 
 .volgendeblz {
